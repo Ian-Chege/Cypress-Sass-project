@@ -8,6 +8,20 @@
       "when": 1700573318327,
       "tag": "0000_abnormal_silver_centurion",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1700740607143,
+      "tag": "0001_great_wraith",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1700829353570,
+      "tag": "0002_light_ricochet",
+      "breakpoints": true
     }
   ]
 }
