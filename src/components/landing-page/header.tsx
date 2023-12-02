@@ -106,7 +106,7 @@ const Header = () => {
                 gap-3
                 p-6
                 md:w-[400px]
-                ld:w-[500px]
+                lg:w-[500px]
                 lg:grid-cols-[.75fr_1fr]
                 "
               >
